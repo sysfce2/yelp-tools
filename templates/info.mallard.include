@@ -32,3 +32,5 @@
     <desc>Write a short page description here.</desc>
 
     <keywords>comma-separated list, of keywords, for search</keywords>
+    
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
