@@ -161,7 +161,7 @@
 
     <item>
       <title><cmd>--except <var>LICENSES</var></cmd></title>
-      <p>Only show pages that do not any license in the
+      <p>Only show pages that do not have any license in the
       space-separated list <var>LICENSES</var>.</p>
     </item>
   </terms>

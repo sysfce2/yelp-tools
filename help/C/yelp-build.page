@@ -87,8 +87,8 @@ yelp-build cache .</screen>
   <p>Just as for <cmd>yelp-build html</cmd> or <cmd>yelp-build xhtml</cmd>, you can
   pass a custom cache file with the <cmd>-c</cmd> option, a customization stylesheet
   with the <cmd>-x</cmd> option, a path for external files with the <cmd>-p</cmd>
-  option, and the option to ignore missing media files with <cmd>-i</cmd>. See the
-  documentation for <cmd>yelp-build html</cmd> for more information. Note that
+  option, and the option to ignore missing media files with <cmd>-i</cmd>. See 
+  <cmd xref="#html">yelp-build html</cmd> for more information. Note that
   setting URL roots for JavaScript, CSS, and icon files is usually not a good idea
   for EPUB, because <cmd>yelp-build epub</cmd> places those files in a fixed
   location inside the zip file.</p>
